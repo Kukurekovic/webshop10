@@ -62,6 +62,7 @@ const Filter = () => {
           <option value="digital">Digital</option>
         </select>
       </div>
+
       <div className="">
         <select
           name=""
