@@ -9,7 +9,7 @@ const slides = [
     id: 1,
     title: "Summer Sale Collections",
     description: "Sale! Up to 50% off!",
-    img: "https://images.pexels.com/photos/4006504/pexels-photo-4006504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://images.pexels.com/photos/1396538/pexels-photo-1396538.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     url: "/",
     bg: "bg-gradient-to-r from-yellow-50 to-pink-50",
   },
