@@ -8,8 +8,8 @@ import { WixClientContextProvider } from "@/context/wixContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "E-Commerce Application",
-  description: "A complete e-commerce application with Next.js and Wix",
+  title: "AptDeco",
+  description: "Find affordable furniture and home goods at AptDeco!",
 };
 
 export default function RootLayout({
