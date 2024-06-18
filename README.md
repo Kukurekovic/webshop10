@@ -14,9 +14,9 @@ A live version of this project can be found at https://webshop10-kukurekovics-pr
 Here's what you can do with our user-friendly application:
 
 - Register: Start by signing up to enjoy a personalized shopping experience.
-- Log In: If you already have an account, simply log in and continue where you left off.
+- Login: If you already have an account, simply log in and continue where you left off.
 - Search Products: Easily find what you're looking for with our efficient search feature.
-- Browse Products: View all our products or narrow it down to specific categories.
+- Browse Products: View all our products or narrow them down to specific categories.
 - Sort Products: Organize products based on your preferences.
 - Add to Cart: Add your favorite items to the cart in your preferred sizes and colors, whether you're logged in or not.
 - Remove from Cart: Easily remove any items you no longer want.
@@ -31,6 +31,5 @@ This project was built with:
 - Typescript
 - NextJs
 - Tailwind CSS
-- GraphQL
-- HyGraph
-- Clerk
+- Wix Headless CMS
+- Zustand
