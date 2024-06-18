@@ -7,7 +7,7 @@ Welcome to ArtDeco, a delightful webshop offering a wide range of furniture and 
 A live version of this project can be found at https://webshop10-kukurekovics-projects.vercel.app/
 
 ## Preview
-![2 Car Rental App sm](https://github.com/Kukurekovic/Rental-cars/assets/113231854/8b1ca171-c10a-4f5e-baa1-1cc715cafae3)
+![1 ArtDeco sm](https://github.com/Kukurekovic/webshop10/assets/113231854/d8008989-8670-4e1c-887d-cdc18f033da3)
 
 ## Features
 
