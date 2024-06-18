@@ -11,7 +11,7 @@ A live version of this project can be found at https://webshop10-kukurekovics-pr
 
 ## Features
 
-Here's what you can do with our user-friendly application:
+Here's what you can do with this user-friendly application:
 
 - Register: Start by signing up to enjoy a personalized shopping experience.
 - Login: If you already have an account, simply log in and continue where you left off.
