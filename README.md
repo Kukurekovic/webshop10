@@ -17,7 +17,6 @@ Here's what you can do with this user-friendly application:
 - Login: If you already have an account, simply log in and continue where you left off.
 - Search Products: Easily find what you're looking for with our efficient search feature.
 - Browse Products: View all our products or narrow them down to specific categories.
-- Sort Products: Organize products based on your preferences.
 - Add to Cart: Add your favorite items to the cart in your preferred sizes and colors, whether you're logged in or not.
 - Remove from Cart: Easily remove any items you no longer want.
 - Persistent Cart: Even if you're not logged in, your selected items will stay in the cart, even if you refresh the page.
