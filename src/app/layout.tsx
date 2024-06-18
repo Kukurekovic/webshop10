@@ -8,8 +8,8 @@ import { WixClientContextProvider } from "@/context/wixContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AptDeco",
-  description: "Find affordable furniture and home goods at AptDeco!",
+  title: "ArtDeco",
+  description: "Find affordable furniture and home goods at ArtDeco!",
 };
 
 export default function RootLayout({
