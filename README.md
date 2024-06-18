@@ -11,13 +11,18 @@ A live version of this project can be found at https://webshop10-kukurekovics-pr
 
 ## Features
 
-Car Rental App is designed to make renting a car a breeze for you! Here's how it works:
-- Easy Registration: Start by signing up – a quick and necessary step to get you on the road.
-- Browse Available Cars: Check out our wide selection of cars, complete with detailed information on each one.
-- Sort and Filter: Find the perfect car by sorting the options by price or brand.
-- Customize Your Rental: Once you’ve picked your ideal car, simply choose the location, dates, and times for collection and return.
-- Flexible Car Data: With HyGraph CMS, we keep our car data fresh and up-to-date, ensuring you always have the best options to choose from.
-We’re here to help you find the perfect ride for your journey!
+Here's what you can do with our user-friendly application:
+
+- Register: Start by signing up to enjoy a personalized shopping experience.
+- Log In: If you already have an account, simply log in and continue where you left off.
+- Search Products: Easily find what you're looking for with our efficient search feature.
+- Browse Products: View all our products or narrow it down to specific categories.
+- Sort Products: Organize products based on your preferences.
+- Add to Cart: Add your favorite items to the cart in your preferred sizes and colors, whether you're logged in or not.
+- Remove from Cart: Easily remove any items you no longer want.
+- Persistent Cart: Even if you're not logged in, your selected items will stay in the cart, even if you refresh the page.
+  
+ArtDeco is here to make your shopping experience smooth and enjoyable!
 
 ## Tech Stack
 
